@@ -1,0 +1,19 @@
+# Ecommerce Poster ver.3 — English entry
+
+Use the root SKILL.md for shared gates and model routing. Load only the current stage file (stage-01.md through stage-08.md); do not load the frozen baseline as runtime context. Translate the relevant rules and confirmed brief when English output is needed.
+
+D = deterministic tools; L = cost-efficient model; M = main reasoning model; H = flagship for difficult decisions; I = image generation/editing tool. Routing is a recommendation, not an implemented model switch. See model-routing.md.
+
+Preserve six input groups, per-placement price and canvas confirmation, independently composed A/B/C images for every placement, actual reference inspection, protected product fidelity, the human selection gate, and honest output/verification claims. Stage 4 contains the mandatory quality prompt fragments. Budget savings cannot relax these gates.
+
+Before production, read time-optimization.md. Stabilize product inputs, consolidate confirmation and planning, parallelize independent jobs only where explicitly supported by tools, repair affected images only, and batch deterministic exports. Do not regenerate a qualified selected preview by default. Preserve all final hard gates. Model switching and image concurrency are recommendations, not verified capabilities.
+
+This candidate version was edited on 2026-10-11 for both token and elapsed-time optimization. No behavioral, generation, latency, cost or model-comparison tests have been run.
+
+## Image production override — 2026-10-11
+Only AI image generation/editing may create or change poster visuals. AI may redraw packaging against the original product reference, without inventing product facts or changing angles without separate permission. Do not use local scripts for product cutouts, background compositing, text/price layout, stamp removal or visual repair, and do not offer them as a fallback. Local tools may inspect files, back up inputs, rename/copy, resize without creative edits, convert formats, assemble comparison previews and package deliverables. Repair visual defects with AI targeted edits; if hard gates cannot be met, save drafts and report the limitation. This overrides older pixel-preservation/compositing/typesetting guidance.
+
+## ver.3 series and hierarchy override
+Read series-information-priority.md before stage3. Fixed placement is not a fixed image count; choose the smallest sufficient series from supplied facts and independent themes. Split when text must shrink, focal points compete or unrelated topics are forced together; never pad the count. Explicit fixed counts still prevail.
+When authorized commercial information appears, price, conditions, dates and required qualifiers form the highest-priority group, first-page preferred. Amount leads within that group; nearby qualifiers remain readable. Chinese priced images at every aspect ratio must inspect suitable main-image price references and transfer the mechanism without stretching a square template. English priced images are exempt: main-image price styling and its reference-reading step are optional, not a delivery gate. Use suitable restrained typography for the brand, goal and known placement while preserving commercial priority and readable price conditions. English does not automatically mean Amazon or verified platform compliance. Other facts rank by user goal, distinct benefits and evidence; brand/education can raise core benefits but does not demote a displayed price group.
+A/B/C are3 real representative-page direction previews per placement, not3 series pages. Attach a series plan; after selection produce that direction's remaining pages, not3×N by default. Reuse actual selections for later series revisions. Verify coverage across the whole series and one focal point per page. These2026-10-14 user-approved rules override older examples; no new image/behavior tests are claimed.

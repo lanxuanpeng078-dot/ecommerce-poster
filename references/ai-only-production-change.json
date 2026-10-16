@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-11",
+  "reason": "用户结束本轮测试并明确指定只允许AI重绘包装生成，不授权本地脚本抠图/背景合成/排版",
+  "files": [
+    "SKILL.md",
+    "references/stage-04.md",
+    "references/stage-06.md",
+    "references/time-optimization.md",
+    "references/jd-main-image-patterns.md",
+    "references/SKILL.en.md"
+  ],
+  "backup": "Y:\\海报skill\\output\\ver2_AI生成规则修改前_20261011",
+  "validation": "静态一致性检查；没有启动新的行为回放、图像生成或节省率测试",
+  "ver1": "未修改"
+}

@@ -1,0 +1,10 @@
+interface:
+  display_name: "电商海报ver.3"
+  short_description: "按信息量规划系列张数，商业信息优先、功能分组排序，兼顾美观与保真"
+  default_prompt: "使用 $ecommerce-poster-ver-3，锁定我指定的版位，按资料规划系列张数和每页主次；商业信息优先，中文含价页借鉴首图价格表现，英文含价图不强制套用，先给方向预览，选定后完成系列。"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
+
+
